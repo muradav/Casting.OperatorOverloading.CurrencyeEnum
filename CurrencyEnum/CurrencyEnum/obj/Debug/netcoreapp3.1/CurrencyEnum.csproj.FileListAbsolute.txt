@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\bin\Debug\netcoreapp3.1\CurrencyEnum.exe
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\bin\Debug\netcoreapp3.1\CurrencyEnum.deps.json
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\bin\Debug\netcoreapp3.1\CurrencyEnum.runtimeconfig.json
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\bin\Debug\netcoreapp3.1\CurrencyEnum.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\bin\Debug\netcoreapp3.1\CurrencyEnum.dll
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\bin\Debug\netcoreapp3.1\CurrencyEnum.pdb
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\obj\Debug\netcoreapp3.1\CurrencyEnum.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\obj\Debug\netcoreapp3.1\CurrencyEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\obj\Debug\netcoreapp3.1\CurrencyEnum.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\obj\Debug\netcoreapp3.1\CurrencyEnum.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\obj\Debug\netcoreapp3.1\CurrencyEnum.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\obj\Debug\netcoreapp3.1\CurrencyEnum.dll
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\obj\Debug\netcoreapp3.1\CurrencyEnum.pdb
+C:\Users\HP\Desktop\Development\Casting.OperatorOverloading.CurrencyeEnum\CurrencyEnum\CurrencyEnum\obj\Debug\netcoreapp3.1\CurrencyEnum.genruntimeconfig.cache
